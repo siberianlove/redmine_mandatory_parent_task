@@ -1,0 +1,3 @@
+en:
+  redmine_mandatory_parent_task_field_required: " is required for this project."
+  permission_ignore_mandatory_parent: "Create parent tasks"

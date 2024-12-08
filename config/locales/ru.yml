@@ -1,0 +1,3 @@
+ru:
+  redmine_mandatory_parent_task_field_required: " обязательно для заполнения в этом проекте."
+  permission_ignore_mandatory_parent: "Создавать родительские задачи"
